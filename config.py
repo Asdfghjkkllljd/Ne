@@ -1,18 +1,18 @@
-CHANNEL_ID = 123123  # Айди канала
-INVOICE_LINK = "https://t.me/send?start=IVDPUVSBls87"  #  Линк на инвойс
-RULES_LINK = "https://t.me/c/2192323057/3"  #  Линк на правила
-NEWS_LINK = "https://t.me/+noTnZbQmYYhmMjIy"  #  Линк польз. соглашения
-SUPPORT_LINK = "https://t.me/starwebb"  #  Линк саппорта
-FAQ_LINK = "https://t.me/c/2192323057/3" # FAQ
-CRYPTO_PAY_TOKEN = "242947:"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
-BOT_TOKEN = "7404473505:-JcPSkOU8PA"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
+CHANNEL_ID = -1002153144075  # Айди канала
+INVOICE_LINK = "http://t.me/send?start=IVe5HHni6n4w"  #  Линк на инвойс
+RULES_LINK = "https://t.me/flippyNOVOSTI"  #  Линк на правила
+NEWS_LINK = "https://t.me/flippyNOVOSTI"  #  Линк польз. соглашения
+SUPPORT_LINK = "https://t.me/neender38"  #  Линк саппорта
+FAQ_LINK = "https://t.me/flippyNOVOSTI" # FAQ
+CRYPTO_PAY_TOKEN = "258667:AAFvrTIKW4e8QL6qsZaGAirBf3NrOs0k3tD"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
+BOT_TOKEN = "7057835566:AAFvVI6knIuRVXkp84KWJIvWOGrNEjuVuz8"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
 SCAM_SUM = 5
 SCAM_SUM_WHEEL = 10
 SCAM_WHEEL = 0
-ADMIN_ID = 5330676613  # Айди админа
-ADMIN_SD = 1452896288
-NEWS_ID = -1002192323057  # Айди канала новостей
-VIPLAT_ID = -1002059587052
+ADMIN_ID = 5265338055  # Айди админа
+ADMIN_SD = 5265338055
+NEWS_ID = -1002163400429  # Айди канала новостей
+VIPLAT_ID = -1002241301442
 min_vivod = 1.1
 xamount_action = False
 kef = 2.8
