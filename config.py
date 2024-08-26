@@ -30,7 +30,7 @@ LOSE_IMG = 'http://i.imgur.com/PmfLrpB.jpg'
 CHAT_LINK = "https://t.me/+QDcTI221QRgwNzIy"
 CHAT_MESSAGE_INTERVAL = 1200
 OFFLINE_DOLLAR = 92
-ERROR_CHAT_ID = -1002207071413
+ERROR_CHAT_ID = -1002241301442
 MAX_BET = 100
 
 bowling_values = {
